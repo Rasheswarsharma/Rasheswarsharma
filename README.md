@@ -1,4 +1,14 @@
+# 💫 Hi 👋, I'm Rasheswar Sharma
+**A passionate Full Stack Developer**
 
+Email Me 👉 ✉️ **rasheswarsharma217252@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:**
+- 🌱 **I’m currently learning:** MERN Stack (Advanced),DevOps (CI/CD, Docker, Kubernetes).
+- 🤔 **I’m looking for help with:** Deploying large-scale MERN and optimizing **DevOps pipelines**.
+- 💬 **Ask me about:** MERN Stack Development,Web3, Full-Stack Project Architecture, and Hackathon Projects.
+- 📫 **How to reach me:** **rasheswarsharma217252@gmail.com** or connect on [LinkedIn](https://www.linkedin.com).
+- ⚡ **Fun fact:** I build projects faster in hackathons than I cook Maggi 🍜💻
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rasheswar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rasheswar_sharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rasheswar-sharma-116079340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahendrasharma1561979@gmail.com) 
 
